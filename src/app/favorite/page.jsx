@@ -2,7 +2,7 @@
 const page = () => {
     return (
         <div>
-            page
+            <h2 className="text-4xl text-green-600 text-center mt-20 font-bold">Your favourite page will Updated soon</h2>
         </div>
     );
 };
